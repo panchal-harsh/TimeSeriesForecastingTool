@@ -47,7 +47,7 @@ import plotly.graph_objects as go
 
 
 
-st.set_option('deprecation.showPyplotGlobalUse', False) # to prevent display of warnings
+
 st.title("Time Series Forecasting for Different Demand Patterns") # Heading of App.
 st.sidebar.image("https://www.analyticssteps.com/backend/media/thumbnail/6350483/7807104_1578230927_time_analysis_tittle-banner%20(1).jpg") # Adding Image to the Sidebar.
 
